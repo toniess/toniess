@@ -21,7 +21,7 @@
 - [MTUCI_CHAT](https://github.com/STUDCODE-team/MTUCI_CHAT_CLIENT): Интерактивная платформа для студентов МТУСИ. (С++, Qt, QML, Go, CI/CD, MySQL);
 - [Ararat](https://github.com/toniess/Ararat/blob/master/README.md): Приложение для оповещения при обходе коменданта в общаге (Python, VkApi, telebot)
 - [LifeGame](https://github.com/toniess/LifeGame): Игра Джона Конвея — Жизнь. (QML)
-- [GluTable](https://github.com/toniess/GluTable): Большая проргамма для создания учебного расписания в Омском кадетском военном корпусе. (C++, Qt, QML)
+- [GluTable](https://github.com/toniess/GluTable): Большая программа для создания учебного расписания в Омском кадетском военном корпусе. (C++, Qt, QML)
 - [TodoList](https://github.com/toniess/TODOlist): Легкий список задач с календарем. (C++, Qt, QML, JS, MySQL)
 - [Askii](https://github.com/STUDCODE-team/Askii): Программа для рисования изображений и гифок в консоле. (С++, Qt)
 
