@@ -1,35 +1,44 @@
-## Игнатий Глушков
+## Ignatiy Glushkov
 
-### Разработчик Qt/Flutter
+**Lead Flutter Developer at [SimbirSoft](https://www.simbirsoft.com)** · Moscow
 
-Привет! Я Игнат, разработчик мобильных приложений на языке С++/Qt и Dart/Flutter, но также могу и в десктоп. Обучался профессии несколько лет, код на C++ можно увидеть по ссылкам ниже. Хорошего кода на flutter или qml тут искать не стоит, он в коммерческих закрытых репах.
+Mobile developer who has shipped cross-platform apps in both Flutter and C++/Qt. At SimbirSoft I lead Flutter development. Before that I built mobile apps in C++/Qt at AktivSystems, so I'm comfortable working close to the platform when a project needs it. I also write Java/Spring Boot backends.
 
-#### Навыки и технологии:
+Outside work I maintain an open-source Dart package on pub.dev and build tools I use myself. Commercial code is under NDA, so the projects below are personal ones.
 
-- Языки программирования: С++, QML, JS, Dart, (ANDROID/IOS basics)
-- Фреймворки: Qt, Flutter
-- Инструменты: Git, CMake, QMake, Firebase, Ably
-- CI/CD: teamcity, Jenkins
+### Experience
 
-#### Интересные проекты:
+- **SimbirSoft**: Lead Flutter Developer (current)
+- **AktivSystems**: C++/Qt Mobile Developer
 
-- [Тестовое задание С++ разработчик CAD Exchanger](https://github.com/toniess/test_cpp_CADExchanger): (C++, ООП, Smart_ptrs, CMake, OpenMP opt)
-- [Тестовое задание для стажера С++](https://github.com/toniess/Infotecs_internship/tree/main): (C++, Потоки, синхронизация, сокеты)
-- [Настольная игра Hive](https://github.com/toniess/Hive): (QML)
-- [Веб-приложение на Qt->WASM](https://github.com/toniess/Writer): Веб приложение (Qt/QML -> Wasm, gitflow)
-- [Чат для студентов](https://github.com/STUDCODE-team/MTUCI_CHAT_CLIENT): довольно приятный аккуратный код (C++, QML)
-- [Дипломная в Нетологии](https://github.com/toniess/SearchEngine): Поисковая система. (С++, boost, libpqxx, openssl)
-- [Курсовая в Нетологии](https://github.com/toniess/netology_diplom_2): Симулятор гонок. (С++, ООП, CMake, Shared Libs)
+### Stack
 
-#### Образование:
+- **Main:** Dart, Flutter
+- **Also:** C++, Qt/QML, Java, Spring Boot
 
-- Студент МТУСИ по направлению "Фундаментальная информатика и информационные технологии" (3 курс)
-- Студент Нетологии по направлению "Разработчик С++" (выпускник)
+### Projects
 
-#### Контактная информация:
+| Project | What it is | Stack |
+|---|---|---|
+| [tbank_invest_grpc](https://github.com/toniess/tbank_invest_grpc) | gRPC client for the T-Bank Invest API, published on pub.dev. Covers every API service with a single entry point that uses HTTP/2 on native platforms and gRPC-Web in the browser | Dart, gRPC, Protobuf |
+| [inoriginal-subtitle-translator](https://github.com/toniess/inoriginal-subtitle-translator) | Chrome extension for learning languages from films: click a word in the subtitles to see translations, save it to a vocabulary list and review it with flashcards | JavaScript, Chrome Extensions API |
+| [meridian-web](https://github.com/toniess/meridian-web) | Website with an online library (reader, audiobooks) and a project feed | Next.js 15, React 19, TypeScript |
 
-- [Telegram](https://t.me/toniess)
-- Email: ignat.glushkov@mail.ru
-- [ВК](https://vk.com/toniess)
+<details>
+<summary>Earlier C++ / Qt projects</summary>
 
-  
+- [SearchEngine](https://github.com/toniess/SearchEngine): search engine with a crawler and indexer (C++, Boost, libpqxx, OpenSSL)
+- [Infotecs_internship](https://github.com/toniess/Infotecs_internship): multithreaded client-server app (C++, threads, sockets)
+- [MTUCI_CHAT_CLIENT](https://github.com/STUDCODE-team/MTUCI_CHAT_CLIENT): chat client for university students (C++, QML)
+- [Hive](https://github.com/toniess/Hive): the Hive board game (QML)
+
+</details>
+
+### Education
+
+- **MTUCI**: B.Sc. in Fundamental Computer Science and Information Technology
+- **Netology**: C++ Developer program (graduated)
+
+### Contact
+
+[Telegram](https://t.me/toniess) · [ignat.glushkov@mail.ru](mailto:ignat.glushkov@mail.ru)
